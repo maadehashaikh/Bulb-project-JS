@@ -1,0 +1,10 @@
+*{
+  background-color: lightblue;
+}
+img{
+  margin-left: 60px;
+  margin-top: 10px;
+  border: 2px solid black;
+  position: sticky;
+  width: 150px;
+}
